@@ -48,6 +48,10 @@ Build a scalable attribution reporting solution capable of:
 
 ---
 
+# Solution Architecture
+
+![Marketing Attribution Intelligence Architecture](screenshots/architecture-diagram.png)
+
 # Solution Overview
 
 The solution consists of four main stages.
